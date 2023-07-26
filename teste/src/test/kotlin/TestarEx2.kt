@@ -7,6 +7,6 @@ class TestarEx2 {
         val input = 1
         val diaSemana = diaSemanal(input)
 
-       assertEquals("Domingo",diaSemana)
+       assertEquals("Domingo",diaSemana);
     }
 }
