@@ -1,0 +1,3 @@
+class TestarEx3 {
+
+}
