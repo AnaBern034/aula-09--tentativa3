@@ -16,5 +16,6 @@ import static org.example.Conexão.CONEXÃO.conexãoBancoDados;
     }
     public void inserirDados(String nome, String senha){
            String sql = "INSERT INTO usuarios (nome,senha) VALUES('"+nome+senha+"')";
+        .
     }
 }
